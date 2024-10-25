@@ -39,3 +39,6 @@ Langkah-langkah untuk mengunduh dan menjalankan proyek ini secara lokal:
 
    ```bash
    git clone https://github.com/afkarson1303-cyber/IoT.git
+
+## Catatan
+Untuk tutorial desain menggunakan Unity akan menyusul. Terima kasih
