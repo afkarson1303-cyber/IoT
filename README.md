@@ -9,7 +9,7 @@ Monitoring Network menggunakan Teknologi AR adalah salah satu interface berbasis
 
 afkarson1303-cyber/IoT
 
-Visualisasi Aplikasi Android menggunakan Teknologi AR :
+Visualisasi Monitoring Jaringan dan Smart Strip Led menggunakan Teknologi AR.
 
 ## Unduh Berkas Pendukung
 
